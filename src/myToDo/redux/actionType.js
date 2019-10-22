@@ -1,0 +1,10 @@
+export const ADD_TODO = "ADD_TODO";
+export const EDIT_TODO = "EDIT_TODO";
+export const TOGGLE_TODO = "TOGGLE_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
+export const UNDO = "UNDO";
+export const SET_FILTER = "SET_FILTER";
+export const INCRIMENT = "INCRIMENT";
+export const DECRIMENT = "DECRIMENT";
+export const START_TIMER = "START_TIMER";
+export const RESET_TIMER = "RESET_TIMER";
